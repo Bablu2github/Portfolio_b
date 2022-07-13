@@ -2,7 +2,7 @@
 This is my Porfolio
 This Portfolio is a small project using HTML / CSS and Bootstrap. I will be using this to showmy projects!
 [Live Heroku Deployment](https://bablu-portfolio.herokuapp.com/)
-## Screenshot:
+
 ## Technologies Used
 * HTML
 * CSS
